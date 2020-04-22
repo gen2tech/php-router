@@ -18,7 +18,7 @@
   "autoload": {
     "psr-4": {
   		"Inf\\": "router",
-  		"App\\": "app",
+  		"App\\": "app"
   	}
   }
 }
